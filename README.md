@@ -45,7 +45,8 @@
 
 ###
 
-<p align="left">📧 You can reach me at amitkr97531@gmail.com</p>
+<p align="left">📧 You can reach me at <a href="mailto:amitkr97531@gmail.com">amitkr97531@gmail.com</a></p>
+
 
 ###
 
